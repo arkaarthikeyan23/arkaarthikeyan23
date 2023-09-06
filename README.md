@@ -1,3 +1,4 @@
+![logo](https://github.com/arkaarthikeyan23/arkaarthikeyan23/blob/main/Red%20And%20Blue%20Abstract%20Modern%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kaarthikeyan A R</h1>
 <h3 align="center">An aspiring Software Engineer, a passionate programmer from India.</h3>
 
